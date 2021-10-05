@@ -15,11 +15,13 @@ The diagran explains the following:
 <br>
 
 <br>
-<img src = https://github.com/arjunvtsuresh/Arduino_Temperature-Humidity_Reader/blob/main/img/Dht.jpg.png>
-<br>
-<br>
 <img height="500" src = https://github.com/arjunvtsuresh/Arduino_Temperature-Humidity_Reader/blob/main/img/20211005_172017.jpg>
 <br>
+
+<br>
+<img src = https://github.com/arjunvtsuresh/Arduino_Temperature-Humidity_Reader/blob/main/img/Dht.jpg.png>
+<br>
+
 
 # Results:
 <br>
