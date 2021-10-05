@@ -1,3 +1,3 @@
 # Arduino_Temperature-Humidity_Reader
 
-<img height="600" src = "./img/Screenshot 2021-10-05 172213.jpg"
+<img height="600" src = https://github.com/arjunvtsuresh/Arduino_Temperature-Humidity_Reader/blob/main/img/Screenshot%202021-10-05%20172213.png"
